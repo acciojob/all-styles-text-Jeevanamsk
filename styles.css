@@ -1,14 +1,13 @@
-
-/* Your CSS Code here. */
-
 .container{
     width: 200px;
     background-color: purple;
     border-left: 5px solid green;
+    font-size: 20px;
+    color: white;
+}
+.container p{
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
-    font-size: 20px;
-    color: white;
 }
